@@ -28,3 +28,4 @@ names = (("West Virginia", "Cody", "Alex", "Brian", "Camron"),("New York", "Bran
 
 print(names[1])
 print(names[0][2])
+

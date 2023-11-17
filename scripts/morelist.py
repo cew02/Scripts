@@ -29,4 +29,4 @@ places_upd = [['West Virginia', 'Beckley', 'Crab Orchard'], ['Indiana', 'South B
 places.extend(places_upd)
 print(places[4])
 
-# merges the lists
+# Merges the lists 
