@@ -1,6 +1,6 @@
 import random
 
-print('Pick a number 1-100?')
+print('Pick a number 1-1000?')
 
 while True:
     user = int(input('1. Number    2. Exit'))
