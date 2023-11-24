@@ -1,5 +1,7 @@
 # While Loops
 
+
+
 # Assign starting number (counter)
 i = 1
 
@@ -42,3 +44,25 @@ people = ['Cody', 'Camron', 'Brian', 'Ceasar']
 
 for i in people:
   print(i, end ='')
+
+# Using range
+
+for i in range(5):
+  print(i, end = '')
+
+# ex: if n = 5, the code prints from 0-4 but does not include n
+
+# Two arguments, n and m
+
+for i in range(5,10):
+  print(i, end = '')
+
+# This block prints the numbers 5-9
+
+# 3 arguments, n m and s
+
+for i in range(5, 10, 15):
+  print(i, end = '')
+
+# This block starts from n, ends before m, and adds by s
+
