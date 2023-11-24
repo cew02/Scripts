@@ -66,3 +66,7 @@ for i in range(5, 10, 15):
 
 # This block starts from n, ends before m, and adds by s
 
+for i in range(10, 21):
+  print(i**2)
+
+# This block prints the range of 10-20 squared
