@@ -10,3 +10,10 @@ vector = [0.4, 0.5, 0.1]
 # Get argmax
 result = argmax(vector)
 print('arg max of %s: %d' % (vector,result))
+
+# argmax using numpy
+
+from numpy import argmax
+vector = [0.4, 0.5, 0.1]
+result = argmax(vector)
+print('arg max of %s: %d' % (vector, result))
