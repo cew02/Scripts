@@ -17,3 +17,7 @@ for i in range(len(countries)):
     if type(countries[i]) is list:
         pop_dens = round(countries[i][2]/countries[i][1], 2)
         print(countries[i][0], pop_dens, 'people per km²')
+
+# List of functions
+# max(x, y, ......) - gives largest number in list
+# min(x, y, ......) - gives smallest number in list
