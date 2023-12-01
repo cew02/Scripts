@@ -18,8 +18,7 @@ for i in range(len(countries)):
         pop_dens = round(countries[i][2]/countries[i][1], 2)
         print(countries[i][0], pop_dens, 'people per km²')
 
-# The other functions
-
+# List of functions
 # min(x, y, ......) - returns the smallest number
 # max(x, y, ......) - returns the largest number
 # abs(x) - returns the absolute value
