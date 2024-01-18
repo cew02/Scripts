@@ -29,3 +29,14 @@ names = (("West Virginia", "Cody", "Alex", "Brian", "Camron"),("New York", "Bran
 print(names[1])
 print(names[0][2])
 
+locations = ("Chick-Fil_a", "Mcdonalds", "Taco Bell")
+
+locations_new = ("Chipotle", "Qdoba", "Long John Silvers")
+new_locations = locations + locations_new
+
+print (new_locations)
+print(locations[1])
+print(locations_new[2])
+# Remember, indexing the first thing is still 0, then 1
+
+
