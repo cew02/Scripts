@@ -1,4 +1,4 @@
-num = int(input("Please enter a number 1-10: "))
+num = int(input("Please enter a number: "))
 
 if (num % 2) == 0:
     print('{0} is even'.format(num))
