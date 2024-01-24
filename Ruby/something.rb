@@ -9,3 +9,5 @@ class Greeter
         puts "Bye #{@name}, come back soon!"
     end
 end
+
+# to run, use console
