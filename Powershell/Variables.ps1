@@ -8,4 +8,5 @@ Write-Host 'Here is $PI'
 Write-Host "Here is `$PI and its value is $PI"
 # ` escapes interpolation
 
-# $() - 
+# $() - expression within double quotation marks
+Write-Host "An expression $($PI + 1)" # Prints an expression 4.14
